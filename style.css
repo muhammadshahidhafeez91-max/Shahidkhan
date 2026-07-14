@@ -1,0 +1,146 @@
+.container
+ {
+    background-color: #91f1e0;
+    
+    padding-top: 100px;
+    padding-bottom: 0px;
+}
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
+
+h1 {
+    color: #058d76;
+    font-size: 4.625rem;
+    margin: 50px auto 0 auto;
+    right: 200px;
+    text-align: center;
+    font-style: italic;
+
+}
+h2 {
+    color: #058d76;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+    text-align: center;
+    font-style: italic;
+}
+.botom-cloud{
+  position: absolute;
+  left: 250px;
+  top: 350px;
+
+}
+.mountain{
+  position: relative;
+  left: 300px;
+
+
+}
+.about-pic{
+       
+       
+       height: 150px;
+       width: 150px;
+       border-radius: 50%;
+       object-fit: cover;
+       padding-top: 20px;
+       
+
+}
+.top-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.info{
+    
+    text-align: center;
+    font-size: 18px;
+    line-height: 2.5;
+    width: 40%;
+    margin: 0 auto;
+
+}
+.skill{
+    display: flex;
+}
+.gif{
+    width: 150px;
+    height: 150px;
+    margin-top: 35px;
+ margin-left: 430px;
+ size: 50px;
+}
+.flex{
+   width: 180px;
+   margin-left: 380px;
+}
+.author{
+   padding-top: 0px;
+   margin-top: 40px;
+}
+.design{
+
+    font-size: 18px;
+    line-height: 1.5;
+   /* text-align: center;*/
+    width: 400px;
+    margin:10px 10px;
+    padding: 0px;
+
+}
+.wing{
+    text-align: center;
+    color: #058d76;
+}
+.para{
+    text-align: center;
+}
+.contact-btn {
+  display: block;
+  margin: 20px auto 0;
+  background-color: #3ba9dc;
+  color: #fff;
+  font-weight: bold;
+  letter-spacing: 1px;
+  padding: 15px 35px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.contact-btn:hover {
+  background-color: #5452f7;
+}
+.footer {
+  background-color: #3ba9dc;
+  text-align: center;
+  padding: 40px 0 25px;
+  margin-top: 30px;
+  height: 130px;
+}
+
+.footer-links a {
+  color: #eaf4fb;
+  text-decoration: none;
+  margin: 0 20px;
+  font-size: 18px;
+  transition: color 0.3s ease;
+}
+
+.footer-links a:hover {
+  color: #37377a;
+  text-decoration: underline;
+}
+
+.copyright {
+  color: #eaf4fb;
+  font-size: 14px;
+  margin-top: 40px;
+}
